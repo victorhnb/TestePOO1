@@ -1,6 +1,6 @@
 package entities;
 
-public class Pato extends Animal  {
+public class Pato extends Animal implements ISom {
 
 	
 	public Pato(int idade, double tamanho, boolean voo) {
