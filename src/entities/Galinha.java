@@ -1,6 +1,6 @@
 package entities;
 
-public class Galinha extends Animal implements ISom {
+public class Galinha extends Animal   {
 
 	public Galinha(int idade, double tamanho, boolean voo) {
 		super(idade, tamanho, voo);
